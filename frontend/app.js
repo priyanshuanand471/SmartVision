@@ -2,7 +2,7 @@
 // SMARTVISION AI - FRONTEND
 // ============================================================
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://smartvision-1-j9b6.onrender.com";
 
 console.log("SmartVision frontend loaded");
 
